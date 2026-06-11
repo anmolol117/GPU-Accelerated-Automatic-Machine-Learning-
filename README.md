@@ -5,8 +5,6 @@ An intelligent **GPU-Accelerated Automated Machine Learning (AutoML) Pipeline** 
 
 The system supports both **Classification** and **Regression** tasks and leverages **GPU acceleration using cuML and XGBoost** to improve computational efficiency and scalability.
 
-<img width="1408" height="768" alt="Gemini_Generated_Image_e2jo12e2jo12e2jo" src="https://github.com/user-attachments/assets/fe74de68-47aa-46cb-ae70-e0719f2b190e" />
-
 ---
 
 ## Overview
@@ -28,8 +26,7 @@ This project automates the **end-to-end ML pipeline**, reducing manual effort, i
 
 The following flowchart illustrates the complete AutoML workflow:
 
-![GPU Accelerated AutoML Pipeline](Gemini_Generated_Image_e2jo12e2jo12e2jo.png)
-
+<img width="1408" height="768" alt="Gemini_Generated_Image_e2jo12e2jo12e2jo" src="https://github.com/user-attachments/assets/fe74de68-47aa-46cb-ae70-e0719f2b190e" />
 ---
 
 ## ✨ Features
